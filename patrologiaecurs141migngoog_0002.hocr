@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs141migngoog_0002.png"; bbox 0 0 3967 6334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 635 2212 1243 2454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 635 2212 1243 2454">
+     <span class='ocr_line' id='line_1_1' title="bbox 635 2212 1243 2301; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 635 2212 929 2298; x_wconf 83' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 964 2213 1243 2301; x_wconf 87' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 800 2367 1079 2454; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 800 2367 1079 2454; x_wconf 85' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 706 3445 1171 3758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 706 3445 1171 3758">
+     <span class='ocr_line' id='line_1_3' title="bbox 709 3445 1164 3529; baseline -0.009 -1"><span class='ocrx_word' id='word_1_4' title='bbox 709 3445 889 3529; x_wconf 88' lang='lat' dir='ltr'><strong>JAMES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 925 3447 1164 3524; x_wconf 86' lang='lat' dir='ltr'>WALKER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 825 3575 1050 3643; baseline -0.004 -12"><span class='ocrx_word' id='word_1_6' title='bbox 825 3575 917 3643; x_wconf 72' lang='lat' dir='ltr'>(clm</span> <span class='ocrx_word' id='word_1_7' title='bbox 929 3575 1050 3641; x_wconf 69' lang='lat'>011814)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 706 3683 1171 3758; baseline 0.002 -17"><span class='ocrx_word' id='word_1_8' title='bbox 706 3683 1171 3758; x_wconf 57' lang='grc' dir='ltr'>Ρωωωοῑηωωωιῳ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 637 3843 1238 3964">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 637 3843 1238 3964">
+     <span class='ocr_line' id='line_1_6' title="bbox 637 3843 1238 3899; baseline 0.01 -14"><span class='ocrx_word' id='word_1_9' title='bbox 637 3843 873 3899; x_wconf 49' lang='lat' dir='ltr'>“methensi</span> <span class='ocrx_word' id='word_1_10' title='bbox 873 3847 1098 3888; x_wconf 54' lang='lat' dir='ltr'>mmmmm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1105 3847 1238 3890; x_wconf 63' lang='lat' dir='ltr'>mun!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 817 3921 1056 3964; baseline 0.008 -2"><span class='ocrx_word' id='word_1_12' title='bbox 817 3921 1056 3964; x_wconf 65' lang='lat' dir='ltr'>nuuoedsdm&#39;·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1988 6324">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1988 6324">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1988 6324; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1988 6324; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
